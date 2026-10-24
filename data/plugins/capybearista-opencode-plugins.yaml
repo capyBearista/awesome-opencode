@@ -1,0 +1,8 @@
+name: capyBearista OpenCode Plugins
+repo: https://github.com/capyBearista/opencode-plugins
+tagline: Small, focused OpenCode upgrades you can mix and match.
+description: >-
+  A growing collection of independently installable plugins that remove
+  everyday friction from OpenCode. Each solves a focused problem or adds
+  a useful convenience, letting you improve your workflow piece by piece
+  without adopting an all-in-one framework.
